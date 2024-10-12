@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942589845050",
+    "project_id": "RaKos-641c2",
+    "storage_bucket": "RaKos-641c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942589845050:android:d336bd8224735981fcdf03",
+        "android_client_info": {
+          "package_name": "com.example.RaKos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwPT4cw_52KmCSYrKSPXL24ikioCP3no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
